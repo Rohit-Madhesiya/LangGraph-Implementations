@@ -19,7 +19,7 @@ To explore these implementations:
    ```bash
    git clone https://github.com/Rohit-Madhesiya/LangGraph-Implementations.git
    cd LangGraph-Implementations
-    ```
+   ```
 
 2. **Set Up the Environment:**
 
@@ -35,7 +35,7 @@ To explore these implementations:
 
    ```bash
    jupyter notebook LangGraph_Chatbot_with_Tools.ipynb
-    ```
+   ```
 
 
 **Author 👨‍💻**
