@@ -41,6 +41,3 @@ To explore these implementations:
 **Author 👨‍💻**
 
 **Developed by [Rohit Gupta]**
-
-::contentReference[oaicite:0]{index=0}
- 
